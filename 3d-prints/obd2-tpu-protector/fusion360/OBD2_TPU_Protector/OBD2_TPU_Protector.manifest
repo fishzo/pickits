@@ -1,0 +1,10 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "script",
+  "author": "",
+  "description": {
+    "": "Builds the OBD2 scan-tool plug TPU bumper sleeve as a parametric body."
+  },
+  "supportedOS": "windows|mac",
+  "editEnabled": true
+}
